@@ -4,3 +4,4 @@ Checking for staging diff.
 checking git tracking my files.
 going to pull it to working dir.
 checking for fetch.
+checking for the fetch 2.
