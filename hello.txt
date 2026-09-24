@@ -1,5 +1,5 @@
 Hello from Ganesh .
-I am Learning Version control.
+I am Learning Version control-now using a diff branch.
 Checking for staging diff.
 checking git tracking my files.
 going to pull it to working dir.
