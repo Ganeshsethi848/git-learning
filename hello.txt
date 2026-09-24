@@ -1,2 +1,3 @@
 Hello from Ganesh .
 I am Learning Version control.
+Checking for staging diff.
