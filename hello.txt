@@ -1,5 +1,9 @@
 Hello from Ganesh .
+<<<<<<< HEAD
 control-now using a diff branch.
+=======
+I am Learning Version control-now using a diff branch-("switching between branches for checking conflicts").
+>>>>>>> feature/user-api
 Checking for staging diff.
 checking git tracking my files.
 going to pull it to working dir.
@@ -9,3 +13,5 @@ this is ganesh
 this is amith i made this changes
 
 i am working on the feature/user-api branch.
+
+KCJKC
